@@ -26,9 +26,7 @@ The circuit's operation is broken down into the following stages:
 * **Misc:** Breadboard, Connecting Wires
 
 ## 🔌 Circuit Diagram
-*(Upload your screenshot of the circuit diagram to your repository and ensure it is named `circuit_diagram.png` for this image to appear)*
-
-![Circuit Diagram](./circuit_diagram.png)
+![Circuit Diagram](./image_f4935b.jpg)
 
 ## 💡 Practical Applications
 * **Touchless Switches:** Interfaces with 110V/220V AC appliances, improving hygiene in bathrooms, kitchens, or smart homes without expensive automation systems.
