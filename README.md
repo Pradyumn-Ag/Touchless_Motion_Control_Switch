@@ -1,7 +1,7 @@
 # Touchless Motion Control Switch with CD4017 ✋⚡
 
 ## 📝 Project Overview
-This project is a Touchless Motion Control Switch designed for the Electronic Devices and Circuits Lab (NECC209). The system operates by detecting motion using an infrared (IR) sensor, which triggers a CD4017 decade counter IC. This allows the circuit to control a relay or LED, toggling appliances on or off without physical contact.
+This project is a Touchless Motion Control Switch. The system operates by detecting motion using an infrared (IR) sensor, which triggers a CD4017 decade counter IC. This allows the circuit to control a relay or LED, toggling appliances on or off without physical contact.
 
 ## 🎥 Working Demonstration
 You can view the working video of the hardware prototype in my Google Drive folder:
@@ -26,7 +26,8 @@ The circuit's operation is broken down into the following stages:
 * **Misc:** Breadboard, Connecting Wires
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](./image_f4935b.jpg)
+<img width="1489" height="621" alt="Screenshot 2026-05-29 131038" src="https://github.com/user-attachments/assets/100d582f-5362-43c5-bb17-76eec7af3468" />
+
 
 ## 💡 Practical Applications
 * **Touchless Switches:** Interfaces with 110V/220V AC appliances, improving hygiene in bathrooms, kitchens, or smart homes without expensive automation systems.
