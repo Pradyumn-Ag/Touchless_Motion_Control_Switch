@@ -23,7 +23,7 @@ The circuit's operation is broken down into the following stages:
 * **Capacitors:** 100uF 25V, 1000uF 25V (for power smoothing and noise filtration)
 * **Resistors:** 220-ohm (0.25W) x4, 10k (0.25W), 10k Trimmer (to fine-tune sensor threshold)
 * **Indicators:** 5mm LEDs x2, Bulb
-* **Misc:** Breadboard, Connecting Wires
+* **Misc:** Perforated Board, Connecting Wires
 
 ## 🔌 Circuit Diagram
 <img width="1489" height="621" alt="Screenshot 2026-05-29 131038" src="https://github.com/user-attachments/assets/100d582f-5362-43c5-bb17-76eec7af3468" />
